@@ -7,7 +7,7 @@
 
 ## Fullstack Deeptech Developer (Blockchain, AI, and more!)
 
--@- Why dream when you can build your reality? -@-
+⦓ Why dream when you can build your reality? ⦔
 <p style = "margin-left: 30px">
 Deep understanding of Mathematics and programming algorithms.<br>
 6+ years of development experience on projects ranging from small size applications to complex enterprise solutions.<br>
