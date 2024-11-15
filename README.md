@@ -116,3 +116,8 @@ https://github.com/tandpfun/skill-icons#readme
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZiyuWang0113/ZiyuWang0113/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZiyuWang0113/ZiyuWang0113/output/github-contribution-grid-snake.svg">
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prestonzen/prestonzen/refs/heads/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prestonzen/prestonzen/refs/heads/output/github-contribution-grid-snake.svg">
+</picture>
