@@ -67,8 +67,8 @@ Transparent, communicative, dedicated and superior development.<br>
 #### API Frameworks
 [![API Frameworks](https://skillicons.dev/icons?i=graphql,postman,tailwind&theme=dark)](https://skillicons.dev)
 
-#### 3D Modeling and Game Development
-[![3D Modeling and Game Development](https://skillicons.dev/icons?i=lua,robloxstudio,blender,gamemakerstudio,ps,godot,c++,c,unreal,unity#&theme=dark)](https://skillicons.dev)
+#### Game Development
+[![3D Modeling and Game Development](https://skillicons.dev/icons?i=lua,robloxstudio,blender,gamemakerstudio,ps,godot,cpp,c#,unreal,unity#&theme=dark)](https://skillicons.dev)
 
 #### Operating Systems & Interfaces
 [![Operating Systems](https://skillicons.dev/icons?i=windows,powershell,linux,bash,arch,apple,ubuntu,redhat,raspberrypi&theme=dark)](https://skillicons.dev)
@@ -105,7 +105,6 @@ https://github.com/tandpfun/skill-icons#readme
 </p> 
 
 -->
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prestonzen&show_icons=true&theme=radical" alt="my github stats" height="190px" />
