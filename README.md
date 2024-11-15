@@ -10,37 +10,14 @@
 
 ## Fullstack Deeptech Developer (Blockchain, AI, and more!)
 
-⦓ Why dream when you can build your reality? ⦔
+⦓ Why just dream when you can build your reality? ⦔
 <p style = "margin-left: 30px">
-Deep understanding of Mathematics and programming algorithms.<br>
-6+ years of development experience on projects ranging from small size applications to complex enterprise solutions.<br>
+Deep understanding of logic and programming algorithms.<br>
+10+ years of development experience on projects ranging from small size applications to complex enterprise solutions.<br>
 Bringing projects to completion!<br>
 Transparent, communicative, dedicated and superior development.<br>
 </p>
 
-#### Website Development
-- <b>Front-end</b> : HTML5, CSS3, XML, Bootstrap, JavaScript, jQuery
-- <b>Back-end</b> : Laravel, Codeigniter, Symphony, CakePHP
-- <b>Custom APIs Development</b> : JavaScript, Angular, Vue, & Node.js (Restful, & SOAP)
-- <b>JS Frameworks</b> : Angular, Vue, React, Express, Backbone, & Node
-- <b>Database</b> : MS SQL Server, SQL Azure, MySQL, Entity Framework, Dapper.NET, LINQ to SQL, CSLA.NET, JSON
-- <b>MySQL, MSSQL, Mongo DB, PostgreSQL, Oracle MySQL</b>
-- <b>Operating Systems</b> : Windows Enterprise, Linux, MacBook Pro
-- <b>Web services</b> : WSDL, SOAP, JSON0
-- <b>Visual Basic.NET, ASP.NET, .NET Core; Razor pages, WebAPI, WebForms, DotNetNuke</b>
-- <b>Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Firebase, Heroku, Trello, Pusher and so on </b>
-#### Mobile Application Development
-
-- <b>Swift, Objective-C, Java, Xcode, Android Studio</b>
-- <b>React Native, Ionic Framework, Xamarin, Flutter, Kotlin</b>
-- <b>Cocoa Touch, AVFoundation, CoreImage, CoreData, MapKit, SpriteKit, CloudKit, Core Audio, CoreMIDI</b>
-- <b>Android SDK, Android NDK, SQLite</b>
-- <b>JUnit, Mockito, Robolectric</b>
-- <b>MVVM, MVP</b>
-
-<!--
-![LeetCode Stats](https://leetcard.jacoblin.cool/0x3fdegou?theme=light&font=Delius%20Unicase&ext=heatmap&site=cn&border=1&width=500)
--->
 ### Skills, Languages, and Tools:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prestonzen&layout=donut)
@@ -76,13 +53,13 @@ Transparent, communicative, dedicated and superior development.<br>
 [![Devops Tools](https://skillicons.dev/icons?i=docker,ansible,kubernetes,git,gitlab,githubactions,github,jenkins&theme=dark)](https://skillicons.dev)
 
 #### Monitoring & Testing Tools
-[![Monitoring Tools](https://skillicons.dev/icons?i=elastic,stackoverflow,obsidian&theme=dark)](https://skillicons.dev)
+[![Monitoring Tools](https://skillicons.dev/icons?i=elasticsearch,stackoverflow,obsidian&theme=dark)](https://skillicons.dev)
 
 #### AI & Machine Learning Technologies
 [![AI & Machine Learning Technologies](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark)](https://skillicons.dev)
 
 #### Low Level Programming
-[![Low Level Programming](https://skillicons.dev/icons?i=rust,c++,c,go&theme=dark)](https://skillicons.dev)
+[![Low Level Programming](https://skillicons.dev/icons?i=rust,cpp,c,go&theme=dark)](https://skillicons.dev)
 
 #### Frontend Frameworks
 [![Frontend Frameworks](https://skillicons.dev/icons?i=materialui,bootstrap,html,css,tailwind&theme=dark)](https://skillicons.dev)
@@ -97,20 +74,44 @@ Transparent, communicative, dedicated and superior development.<br>
 [![Operating Systems](https://skillicons.dev/icons?i=windows,powershell,linux,bash,arch,apple,ubuntu,redhat,raspberrypi&theme=dark)](https://skillicons.dev)
 
 
-
-
 <!--
+#### Website Development
+- <b>Front-end</b> : HTML5, CSS3, XML, Bootstrap, JavaScript, jQuery
+- <b>Back-end</b> : Laravel, Codeigniter, Symphony, CakePHP
+- <b>Custom APIs Development</b> : JavaScript, Angular, Vue, & Node.js (Restful, & SOAP)
+- <b>JS Frameworks</b> : Angular, Vue, React, Express, Backbone, & Node
+- <b>Database</b> : MS SQL Server, SQL Azure, MySQL, Entity Framework, Dapper.NET, LINQ to SQL, CSLA.NET, JSON
+- <b>MySQL, MSSQL, Mongo DB, PostgreSQL, Oracle MySQL</b>
+- <b>Operating Systems</b> : Windows Enterprise, Linux, MacBook Pro
+- <b>Web services</b> : WSDL, SOAP, JSON0
+- <b>Visual Basic.NET, ASP.NET, .NET Core; Razor pages, WebAPI, WebForms, DotNetNuke</b>
+- <b>Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Firebase, Heroku, Trello, Pusher and so on </b>
+#### Mobile Application Development
+
+- <b>Swift, Objective-C, Java, Xcode, Android Studio</b>
+- <b>React Native, Ionic Framework, Xamarin, Flutter, Kotlin</b>
+- <b>Cocoa Touch, AVFoundation, CoreImage, CoreData, MapKit, SpriteKit, CloudKit, Core Audio, CoreMIDI</b>
+- <b>Android SDK, Android NDK, SQLite</b>
+- <b>JUnit, Mockito, Robolectric</b>
+- <b>MVVM, MVP</b>
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/0x3fdegou?theme=light&font=Delius%20Unicase&ext=heatmap&site=cn&border=1&width=500)
+
 https://github.com/tandpfun/skill-icons#readme
+ 
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="my github stats" height="190px" />
+</p> 
+
 -->
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prestonzen&show_icons=true&theme=radical" alt="my github stats" height="190px" />
     &nbsp;
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prestonzen&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
 </p>
-<!-- <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="my github stats" height="190px" />
-</p> -->
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZiyuWang0113/ZiyuWang0113/output/github-contribution-grid-snake.svg">
