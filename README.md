@@ -5,6 +5,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=prestonzen&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prestonzen/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:prestonzen@kaizenapps.com)
+
 ## Fullstack Deeptech Developer (Blockchain, AI, and more!)
 
 ⦓ Why dream when you can build your reality? ⦔
@@ -35,7 +38,12 @@ Transparent, communicative, dedicated and superior development.<br>
 - <b>JUnit, Mockito, Robolectric</b>
 - <b>MVVM, MVP</b>
 
-### Skills and Tools:
+<!--
+![LeetCode Stats](https://leetcard.jacoblin.cool/0x3fdegou?theme=light&font=Delius%20Unicase&ext=heatmap&site=cn&border=1&width=500)
+-->
+### Skills, Languages, and Tools:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prestonzen&layout=donut)
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -69,3 +77,8 @@ Transparent, communicative, dedicated and superior development.<br>
 <!-- <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="my github stats" height="190px" />
 </p> -->
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZiyuWang0113/ZiyuWang0113/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZiyuWang0113/ZiyuWang0113/output/github-contribution-grid-snake.svg">
+</picture>
