@@ -2,10 +2,11 @@
 Clear Cache
 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prestonzen&show_icons=true&theme=dark" alt="my github stats" height="190px" />
-    &nbsp;
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prestonzen&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
+  <img src="https://your-vercel-instance.vercel.app/api?username=prestonzen&show_icons=true&theme=dark&cache_seconds=3600" alt="my github stats" height="190px" />
+  &nbsp;
+  <img src="https://your-vercel-instance.vercel.app/api/top-langs/?username=prestonzen&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true&cache_seconds=3600" height="190px" />
 </p>
+
 
 <!--
 
